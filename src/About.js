@@ -38,11 +38,11 @@ class About extends Component {
           <b>BrowserRouter</b> and the <b>match</b>
         </p>
 
-        <p>After executing this site on your computer you should execute the npm command below</p>
+        <p>After executing this site on your computer you should execute the npm command below...</p>
         <p className="red-color"> 
           <b>npm install</b>
         </p>
-        <p>to show the result you should execute the npm cemmand below</p>
+        <p>to show the result you should execute the npm cemmand below...</p>
         <p className="red-color"> 
           <b>npm start</b>
         </p>

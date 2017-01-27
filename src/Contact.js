@@ -101,7 +101,7 @@ class Contact extends Component {
         <FormGroup>
           <ControlLabel>Static text</ControlLabel>
           <FormControl.Static>
-            email@example.com
+            email@example.com..
       </FormControl.Static>
         </FormGroup>
 
