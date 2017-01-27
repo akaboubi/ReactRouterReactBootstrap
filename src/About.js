@@ -46,10 +46,6 @@ class About extends Component {
         <p className="red-color"> 
           <b>npm start</b>
         </p>
-
-        <p className="red-color"> 
-          <b>npm .............</b>
-        </p>
         <p><Button bsStyle="primary">Learn more</Button></p>
        </Jumbotron>
        
