@@ -13,7 +13,7 @@ class About extends Component {
     
       <div className="App">
         <Jumbotron>
-        <h1>Hi, i'm Ali Kboubi</h1>
+        <h1>Hi, i'm Ali Kaboubi</h1>
         <h2>My linkedin is  https://www.linkedin.com/in/ali-kaboubi-41a32321/</h2>
         <p>i created this simple web site for community to show you how to simply use the <b>React-router 4.0.0-alpha.6 (https://react-router.now.sh/basic)</b> and <b>React-bootstrap (https://react-bootstrap.github.io/)</b>.</p>
         <p>- Create a startup react project using the 2 commands below</p>

@@ -30,7 +30,7 @@ const App = () => (
 
 const Home = () => (
   <div>
-<h2>(: Welcome in the Home page... :)</h2>
+<h2>(: Welcome in the Home page :)</h2>
   </div>
 )
 
