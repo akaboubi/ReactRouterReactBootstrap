@@ -89,7 +89,7 @@ class Contact extends Component {
           <ControlLabel>Multiple select</ControlLabel>
           <FormControl componentClass="select" multiple>
             <option value="select">select (multiple)</option>
-            <option value="other">...</option>
+            <option value="other">.....</option>
           </FormControl>
         </FormGroup>
 
