@@ -37,7 +37,7 @@ const Home = () => (
 const NoMatch = ({ location }) => (
   <div>
     <h2>Whoops</h2>
-    <p>Sorry but {location.pathname} didn’t match any pagesssssssss</p>
+    <p>Sorry but {location.pathname} didn’t match any pagesccccc</p>
   </div>
 )
 
