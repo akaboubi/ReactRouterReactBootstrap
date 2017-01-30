@@ -15,7 +15,7 @@ class About extends Component {
         <Jumbotron>
         <h1>Hi, i'm Ali Kaboubi</h1>
         <h2>My linkedin is  https://www.linkedin.com/in/ali-kaboubi-41a32321/</h2>
-        <p>i created this simple web site for community to show you how to simply use the <b>React-router 4.0.0-alpha.6 (https://react-router.now.sh/basic)</b> and <b>React-bootstrap (https://react-bootstrap.github.io/)</b>.</p>
+        <p>I created this simple web site for community to show you how to simply use the <b>React-router 4.0.0-alpha.6 (https://react-router.now.sh/basic)</b> and <b>React-bootstrap (https://react-bootstrap.github.io/)</b>.</p>
         <p>- Create a startup react project using the 2 commands below</p>
         <p className="red-color">
           npm install -g create-react-app
@@ -30,7 +30,7 @@ class About extends Component {
         https://maxcdn.bootstrapcdn.com/bootstrap/latest/css/bootstrap.min.css
         https://maxcdn.bootstrapcdn.com/bootstrap/latest/css/bootstrap-theme.min.css
         </p>
-        <p>install the <b>react-bootstrap</b> module</p>
+        <p>Install the <b>react-bootstrap</b> module</p>
 
         <p className="red-color">npm install react-bootstrap --save</p>
         <p>- You should write the router code in the <b>index.js</b> file </p>
@@ -38,11 +38,11 @@ class About extends Component {
           <b>BrowserRouter</b> and the <b>match</b>
         </p>
 
-        <p>After executing this site on your computer you should execute the npm command below...</p>
+        <p>After executing this site on your computer you should execute the npm command below</p>
         <p className="red-color"> 
           <b>npm install</b>
         </p>
-        <p>to show the result you should execute the npm cemmand below...</p>
+        <p>To show the result you should execute the npm cemmand below</p>
         <p className="red-color"> 
           <b>npm start</b>
         </p>
